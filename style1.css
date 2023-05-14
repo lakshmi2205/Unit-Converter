@@ -1,0 +1,38 @@
+*{
+    background-color: lightslategray;
+}
+input:hover{
+    color:black;
+}
+#ht{
+    margin:5px;
+    text-align: center;
+    color: darkred;
+}
+#ht:hover{
+    color:black;
+}
+#btt
+{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+}
+
+#ctt
+{
+    display: flex;
+    padding: 25px;
+    margin: 20px;
+}
+#dtt
+{
+    display: flex;
+    padding: 15px;
+    margin: 20px;
+}
+#ett{
+    display: flex;
+    padding: 15px;
+    margin: 20px;
+}
